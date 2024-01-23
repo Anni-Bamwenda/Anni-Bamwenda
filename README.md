@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is Anni. I am a data management analyst at Bank of America. I love using data to derive useful insights and make predictions.
+My name is Anni. I'm a Data Management Analyst at Bank of America. I love using data to derive useful insights and make predictions.
 
 - 🔭 I’m currently building a predictive analytics product for my team
 - 🌱 I’m currently relearning neural networks and natural language processing(LLMs)
