@@ -3,7 +3,7 @@
 Hi there 👋🏾 I'm a Data Management Analyst at Bank of America. I use data to derive useful insights and make predictions.
 
 - 🔭 I’m currently building a predictive analytics product and a multi-classification tool for my team
-- 👩🏾‍💻 I'm participating in the [WiDS Hackathon](https://www.kaggle.com/competitions/widsdatathon2024-challenge1/overview) for Health Equity
+- 👩🏾‍💻 I'm participating in the [WiDS Datathon]((https://www.kaggle.com/competitions/widsdatathon2024-challenge2)) for Health Equity
 - 🌱 I’m relearning neural networks and natural language processing(LLMs)
 - ⚡ Fun fact: I've been to 3 continents. I love travelling and exploring the world
 
