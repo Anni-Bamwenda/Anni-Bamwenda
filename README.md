@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Anni-Bamwenda/Anni-Bamwenda/blob/main/Banner.gif)
 
-Hi there 👋🏾 I'm a Data Scientist at Bank of America. I use machine learning to simplify the bank's data management capabilities.
+Hi there 👋🏾 I'm a Data Scientist, Data Management Analyst at Bank of America. I use machine learning to simplify the bank's data management capabilities.
 - 🔭 I’m currently building a predictive analytics product and a multi-classification tool for my team
 - 👩🏾‍💻 I recently participated in [WiDS Datathon](https://www.kaggle.com/competitions/widsdatathon2024-challenge2) for Health Equity
 - 🌱 I’m relearning unsupervised machine learning
