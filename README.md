@@ -1,4 +1,4 @@
-![Banner](https://github.com/Anni-Bamwenda/Anni-Bamwenda/blob/main/Banner.gif)
+![Banner](https://github.com/Anni-Bamwenda/Anni-Bamwenda/blob/main/banner.gif)
 
 Hi there 👋🏾 I'm a Software Engineer II at Bank of America. I use Python to create automation tools and currently drive CI/CD integration efforts for my team.
 - 🔭 I’m currently building Python-based tools to automate some processes for my team.
