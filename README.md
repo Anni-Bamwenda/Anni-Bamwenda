@@ -26,7 +26,7 @@ I build reliable, data-driven systems — from backend automation to AI-powered 
 | [⚙️ MLOps Model Deployment](https://github.com/Anni-Bamwenda/MLOps-Model-Deployment)(Upcoming) | Deploys trained ML model via FastAPI + Docker with CI/CD testing | FastAPI, Docker, GitHub Actions |
 
 ---
-
+<!---
 ### More Projects
 
 [![](https://img.shields.io/badge/%F0%9F%93%8D%20Wids%20Datathon-000?style=for-the-badge)](https://github.com/Anni-Bamwenda/WidsDatathon)
@@ -34,6 +34,7 @@ I build reliable, data-driven systems — from backend automation to AI-powered 
 [![](https://img.shields.io/badge/%F0%9F%8F%A0%20House%20Price%20Prediction-000?style=for-the-badge)](https://github.com/Anni-Bamwenda/House-Pricing-Prediciton-Project)
 
 ---
+--->
 
 ### 🧩 Tech Toolbox
 **Languages:** Python, SQL, Shell  
