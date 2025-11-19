@@ -13,7 +13,7 @@
 🚀 Software Engineer II @ Bank of America | Data Scientist | AI Engineer  
 💻 Raleigh, NC | Open to Remote / Hybrid Roles  
 
-I build reliable, data-driven systems — from backend automation to AI-powered workflows.
+I build reliable, data-driven systems, from backend automation to AI-powered workflows.
 
 ---
 
