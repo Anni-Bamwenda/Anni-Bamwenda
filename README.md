@@ -8,22 +8,22 @@
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396)
 --->
-# 👋 Hi, I'm Anni Bamwenda
+# Hi, I'm Anni Bamwenda
 
-🚀 Software Engineer II @ Bank of America | Data Scientist | AI Engineer  
-💻 Raleigh, NC | Open to Remote / Hybrid Roles  
+Software Engineer II @ Bank of America | Data Scientist | AI Engineer  
+Raleigh, NC  
 
 I build reliable, data-driven systems, from backend automation to AI-powered workflows.
 
 ---
 
-### 🧠 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [📧 Email Optimization Assistant](https://github.com/Anni-Bamwenda/Email-Optimization-Assistant) | Automates Gmail extraction and daily summaries using OpenAI API | Python, Google API, OpenAI, Docker, CI/CD |
 | [🧬 Metastatic Cancer Prediction](https://github.com/Anni-Bamwenda/Metastatic-Cancer-Prediction) | Predicts cancer diagnosis durations from demographic + imaging data using ML| Python, scikit-learn, pandas, matplotlib |
-| ⚙️ MLOps Model Deployment ..Upcoming.. | Deploys trained ML model via FastAPI + Docker with CI/CD testing | FastAPI, Docker, GitHub Actions |
+<!---| ⚙️ MLOps Model Deployment ..Upcoming.. | Deploys trained ML model via FastAPI + Docker with CI/CD testing | FastAPI, Docker, GitHub Actions | --->
 
 ---
 <!---
@@ -36,7 +36,7 @@ I build reliable, data-driven systems, from backend automation to AI-powered wor
 ---
 --->
 
-### 🧩 Tech Toolbox
+### Tech Toolbox
 **Languages:** Python, SQL, Shell  
 **Frameworks:** scikit-learn, FastAPI, Flask, Pandas  
 **DevOps:** Jenkins, GitHub Actions, Docker, CI/CD  
@@ -44,7 +44,7 @@ I build reliable, data-driven systems, from backend automation to AI-powered wor
 
 ---
 
-### 🌱 What I'm Learning
+### What I'm Learning
 - Scaling ML systems and API deployments  
 - AI integration with real-world workflows  
 - MLOps and CI/CD automation  
