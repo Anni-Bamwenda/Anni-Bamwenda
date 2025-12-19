@@ -22,7 +22,8 @@ I build reliable, data-driven systems, from backend automation to AI-powered wor
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [📧 Email Optimization Assistant](https://github.com/Anni-Bamwenda/Email-Optimization-Assistant) | Automates Gmail extraction and daily summaries using OpenAI API | Python, Google API, OpenAI, Docker, CI/CD |
-| [🧬 Metastatic Cancer Prediction](https://github.com/Anni-Bamwenda/Metastatic-Cancer-Prediction) | Predicts cancer diagnosis durations from demographic + imaging data using ML| Python, scikit-learn, pandas, matplotlib |
+| [🧬 Metastatic Cancer Prediction](https://github.com/Anni-Bamwenda/Metastatic-Cancer-Prediction) | Predicts cancer diagnosis durations from demographic data using ML| Python, scikit-learn, pandas, matplotlib |
+| [🧬 ADHD and Sex Prediction](https://github.com/Anni-Bamwenda/Metastatic-Cancer-Prediction) | Predicts ADHD diagnosis and Sex using socio-demographic and brain-imaging data | Python, scikit-learn, pandas, matplotlib, Github Actions |
 <!---| ⚙️ MLOps Model Deployment ..Upcoming.. | Deploys trained ML model via FastAPI + Docker with CI/CD testing | FastAPI, Docker, GitHub Actions | --->
 
 ---
