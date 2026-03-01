@@ -22,7 +22,7 @@ My work focuses on:
 
 | Project | Description | Focus |
 |--------|-------------|--------|
-| [Multimodal ADHD & Sex Prediction](https://github.com/Anni-Bamwenda/multimodal-adhd-sex-prediction) | End-to-end ML system for multi-output prediction of ADHD diagnosis and sex using socio-demographic and brain-imaging data | ML pipelines, evaluation tradeoffs |
+| [Multimodal ADHD & Gender Prediction](https://github.com/Anni-Bamwenda/multimodal-adhd-sex-prediction) | End-to-end ML system for multi-output prediction of ADHD diagnosis and gender using socio-demographic and brain-imaging data | ML pipelines, evaluation tradeoffs |
 | [Email Optimization Assistant](https://github.com/Anni-Bamwenda/Email-Optimization-Assistant) | Production-grade automation for Gmail extraction and daily summaries using LLM APIs | Automation, APIs, CI/CD |
 | [Metastatic Cancer Prediction](https://github.com/Anni-Bamwenda/Metastatic-Cancer-Prediction) | Predictive ML pipeline for diagnosis duration using demographic and clinical data | Feature engineering, modeling |
 <!---| ⚙️ MLOps Model Deployment ..Upcoming.. | Deploys trained ML model via FastAPI + Docker with CI/CD testing | FastAPI, Docker, GitHub Actions | --->
